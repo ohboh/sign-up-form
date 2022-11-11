@@ -42,34 +42,44 @@ body
 }
 
 .description {
-    margin-bottom: 10vh;
-    margin-left: 4vh;
+    margin-bottom: 6vh;
+    margin-left: 6vh;
     width: 100vh;
+    font-size: smaller;
 }
 
 .sign-up-container {
     width: 100%;
     background-color: beige;
     padding: 4vh;
+    padding-left: 6vh;
     padding-top: 1vh;
-    margin-bottom: 10vh;
+    margin-bottom: 4vh;
     box-shadow: 0 8px 10px -10px black;
 }
 
 .sign-up-title {
     margin-bottom: 2vh;
+    font-size: smaller;
 }
 
 #form {
     display: grid;
     font-size: small;
     grid-template-columns: 30vh 30vh;
+    grid-row-gap: 1vh;
 }
 
 #submit-button {
-    padding: 2vh;
+    padding: 1vh;
     width: 20vh;
-    margin-left: 4vh;
+    margin-left: 6vh;
+    margin-bottom: 2vh;
+}
+
+.right-footer {
+    margin-left: 6vh;
+    font-size: 20px;
 }
 
 
