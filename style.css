@@ -11,6 +11,7 @@ body
 {
     display: flex;
     flex-direction: row;
+    font-weight: 600;
 }
 
 .left-container {
@@ -67,14 +68,14 @@ body
     display: grid;
     font-size: small;
     grid-template-columns: 30vh 30vh;
-    grid-row-gap: 1vh;
+    grid-row-gap: 2vh;
 }
 
 #submit-button {
     padding: 1vh;
     width: 20vh;
     margin-left: 6vh;
-    margin-bottom: 2vh;
+    margin-bottom: 4vh;
 }
 
 .right-footer {
