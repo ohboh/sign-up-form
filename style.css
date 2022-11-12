@@ -81,7 +81,7 @@ body
 .sign-up-title {
     margin-bottom: 4vh;
     font-size: 45px;
-    background: linear-gradient(to left, #575068, #E1D8EF);
+    background: linear-gradient(to left, #575068, #E1D8EF, #F29830);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
