@@ -75,6 +75,7 @@ body
     padding-top: 2vh;
     margin-bottom: 3vh;
     box-shadow: 0 8px 10px -10px black;
+    position: absolute;
 }
 
 .sign-up-title {
