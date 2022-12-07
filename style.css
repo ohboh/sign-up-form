@@ -110,7 +110,7 @@ body
 
 .textbox:focus {
     outline: none;
-    border: 2px solid #F29830;
+    outline: 2px solid #F29830;
 }
 
 #submit-button {
