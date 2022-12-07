@@ -94,7 +94,6 @@ body
     font-size: 14px;
     grid-template-columns: 40vh 40vh;
     grid-row-gap: 2vh;
-    position: absolute;
 }
 
 .textbox {
